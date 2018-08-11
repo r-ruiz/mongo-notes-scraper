@@ -13,7 +13,7 @@ This node application uses the following npm packages:
 
 #### Demo
 
-- [heroku demo](https://quiet-bayou-59245.herokuapp.com/)
+- [heroku demo](https://fierce-eyrie-90295.herokuapp.com/)
 
 #### Demo Gif
 
